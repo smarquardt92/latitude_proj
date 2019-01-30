@@ -7,6 +7,10 @@ body {
     color: linen !important;
 }
 
+#footer {
+    background-color: rgb(3, 3, 119) !important;
+    min-height: 32px !important;
+}
 .nav {
     min-height: 32px !important;
     background: white;
@@ -15,9 +19,9 @@ body {
 
 .navbar-brand   {
     color: linen !important;
-    background-color: rgb(3, 3, 119) !important;
-    color: 
+    background-color: rgb(3, 3, 119) !important; 
 }
+
 .navbar-header {
     padding-left: 10px;
     background-color: white;
